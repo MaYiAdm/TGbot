@@ -4,6 +4,8 @@
 
 2.机器人管理员面板 去除web后台 更隐私 更安全 
 
+3.支持自定义按钮 自定义文案 自定义回复
+
 3.python 高效编写 高效运行 机器人速度 嘎嘎的 
 
 4.演示机器人 @MaYi888bot  点击这里跳转：https://t.me//MaYi888bot
@@ -39,5 +41,6 @@
 
 
 # TG发卡机器人功能图片预览
-<img width="357" alt="截屏2024-08-12 23 18 22" src="https://github.com/user-attachments/assets/8b3691d1-747d-4111-82e9-2ee8c45c12a9">
+<img width="357" alt="截屏2024-08-12 23 18 22" src="https://github.com/user-attachments/assets/8b3691d1-747d-4111-82e9-2ee8c45c12a9"><img width="362" alt="截屏2024-08-12 23 34 38" src="https://github.com/user-attachments/assets/9689000d-b37f-4e3a-bc6b-0943ad9f667c">
+
 
